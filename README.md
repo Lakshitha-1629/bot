@@ -1,24 +1,25 @@
 <p align="center">
-<img src="https://github.com/Lakshitha-1629/bot/blob/main/logo/NoMercy.png?raw=true" width="230">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100%">
+</p>
+
+<p align="center">
+<img src="https://github.com/Lakshitha-1629/bot/blob/main/logo/NoMercy.png?raw=true" width="220">
 </p>
 
 <h1 align="center">💀 N O M E R C Y - M D 💀</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=FF0000&center=true&vCenter=true&width=700&lines=NoMercy-MD+Cyber+Control+System;Advanced+Bug+Menu;Owner+Only+Private+Bot;Free+Fire+Hack+Menu+Coming+Soon;Out+Of+Metrix+Cyber+Team">
+Advanced Cyber WhatsApp Bot
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3500&color=FF0000&center=true&vCenter=true&width=700&lines=NoMercy-MD+Cyber+Control+System;Owner+Only+Private+Bot;Advanced+Bug+Menu;Free+Fire+Hack+Menu+Coming+Soon;Out+Of+Metrix+Cyber+Team">
 </p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Lakshitha-1629&label=PROFILE+VIEWS&color=red&style=for-the-badge">
 <img src="https://img.shields.io/github/stars/Lakshitha-1629/bot?style=for-the-badge&color=red">
 <img src="https://img.shields.io/github/forks/Lakshitha-1629/bot?style=for-the-badge&color=purple">
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/VERSION-V1-red?style=for-the-badge">
-<img src="https://img.shields.io/badge/ACCESS-OWNER%20ONLY-black?style=for-the-badge">
-<img src="https://img.shields.io/badge/TEAM-OUT%20OF%20METRIX-purple?style=for-the-badge">
-<img src="https://img.shields.io/badge/SYSTEM-CYBER%20BOT-darkred?style=for-the-badge">
 </p>
 
 ---
@@ -28,10 +29,10 @@
 ```
 Bot Name   : NoMercy-MD
 Version    : V1
-Type       : Cyber Hacker WhatsApp Bot
+System     : Cyber WhatsApp Bot
 Team       : Out Of Metrix
-System     : Private Control
 Status     : Active
+Access     : Owner Only
 ```
 
 ---
@@ -40,9 +41,8 @@ Status     : Active
 
 ```
 Owner Name : Lakshitha
-Access     : Owner Only
+Control    : Full Access
 Security   : Private System
-Control    : Full Bot Access
 ```
 
 ---
@@ -111,8 +111,12 @@ Out Of Metrix
 <img src="https://img.shields.io/badge/CYBER%20TEAM-OUT%20OF%20METRIX-blue?style=for-the-badge">
 </p>
 
+---
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&width=600&lines=SYSTEM+LOCKED;OWNER+ONLY+ACCESS;PUBLIC+COMING+SOON">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&color=FF0000&center=true&vCenter=true&width=650&lines=SYSTEM+LOCKED;OWNER+ONLY+ACCESS;PUBLIC+COMING+SOON">
 </p>
 
----
+<p align="center">
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%">
+</p>
