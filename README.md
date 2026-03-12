@@ -1,35 +1,40 @@
 <p align="center">
+<!-- START MATRIX BANNER -->
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100%">
 </p>
 
 <p align="center">
-<img src="https://github.com/Lakshitha-1629/bot/blob/main/logo/NoMercy.png?raw=true" width="220">
+<img src="https://github.com/Lakshitha-1629/bot/blob/main/logo/NoMercy.png?raw=true" width="250">
 </p>
 
 <h1 align="center">💀 N O M E R C Y - M D 💀</h1>
 
 <p align="center">
-Advanced Cyber WhatsApp Bot
+Cyber Hacker WhatsApp Bot | Owner Only | Advanced Bug Menu
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3500&color=FF0000&center=true&vCenter=true&width=700&lines=NoMercy-MD+Cyber+Control+System;Owner+Only+Private+Bot;Advanced+Bug+Menu;Free+Fire+Hack+Menu+Coming+Soon;Out+Of+Metrix+Cyber+Team">
+<!-- Typing / Glitch banner -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=4000&color=00FFEE&center=true&vCenter=true&width=700&lines=Full+Matrix+Hacker+Background;Floating+Glitch+Logo;Neon+Cyber+Panels+&+Buttons;Owner-Only+Menus;FF+Hacks+Coming+Soon;Hover+Glitch+Interactive+Buttons;Cyber+Hacker+International+Premium+Look">
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Lakshitha-1629&label=PROFILE+VIEWS&color=red&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=Lakshitha-1629&label=Profile+Views&color=green&style=for-the-badge">
 <img src="https://img.shields.io/github/stars/Lakshitha-1629/bot?style=for-the-badge&color=red">
 <img src="https://img.shields.io/github/forks/Lakshitha-1629/bot?style=for-the-badge&color=purple">
+<img src="https://img.shields.io/badge/Version-V1-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/Access-Owner%20Only-black?style=for-the-badge">
+<img src="https://img.shields.io/badge/Team-Out%20Of%20Metrix-blue?style=for-the-badge">
 </p>
 
 ---
 
-# ⚡ CYBER SYSTEM INFO
+## ⚡ CYBER SYSTEM INFO
 
 ```
 Bot Name   : NoMercy-MD
 Version    : V1
-System     : Cyber WhatsApp Bot
+System     : Full Matrix Hacker Control Bot
 Team       : Out Of Metrix
 Status     : Active
 Access     : Owner Only
@@ -37,28 +42,31 @@ Access     : Owner Only
 
 ---
 
-# 👑 OWNER
+## 👑 OWNER INFO
 
 ```
 Owner Name : Lakshitha
 Control    : Full Access
 Security   : Private System
+Special    : Premium Cyber Access
 ```
 
 ---
 
-# ⚡ BOT MENUS
+## 🟢 BOT MENUS / PANELS
 
 ```
 Main Menu
 Bug Menu
 Download Menu
 Free Fire Hack Menu (Coming Soon)
+Hover / Glitch Interactive Buttons
+Neon Cyber Panels
 ```
 
 ---
 
-# 💀 BUG MENU
+## 💀 BUG MENU PREVIEW
 
 ```
 NoMercy Bug
@@ -70,7 +78,7 @@ Invisible Bug
 
 ---
 
-# 🎮 FREE FIRE HACK MENU
+## 🎮 FREE FIRE HACK MENU
 
 ```
 Status : Coming Soon
@@ -78,7 +86,7 @@ Status : Coming Soon
 
 ---
 
-# 🌐 WEBSITE
+## 🌐 WEBSITE
 
 ```
 Official Website : Coming Soon
@@ -86,16 +94,17 @@ Official Website : Coming Soon
 
 ---
 
-# ⚠ SYSTEM STATUS
+## ⚠ SYSTEM STATUS
 
 ```
 SYSTEM LOCKED
 PUBLIC ACCESS : COMING SOON
+OWNER ONLY : TRUE
 ```
 
 ---
 
-# ⚡ CYBER TEAM
+## ⚡ CYBER TEAM
 
 ```
 Out Of Metrix
@@ -105,18 +114,14 @@ Out Of Metrix
 
 <p align="center">
 <img src="https://img.shields.io/badge/POWERED%20BY-NOMERCY--MD-red?style=for-the-badge">
-</p>
-
-<p align="center">
 <img src="https://img.shields.io/badge/CYBER%20TEAM-OUT%20OF%20METRIX-blue?style=for-the-badge">
 </p>
 
----
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&color=FF0000&center=true&vCenter=true&width=650&lines=SYSTEM+LOCKED;OWNER+ONLY+ACCESS;PUBLIC+COMING+SOON">
+<!-- END MATRIX BANNER -->
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%">
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3500&color=FF0000&center=true&vCenter=true&width=650&lines=SYSTEM+LOCKED;OWNER+ONLY+ACCESS;PUBLIC+COMING+SOON;Glitch+Cyber+Panels;Premium+Hacker+Look">
 </p>
